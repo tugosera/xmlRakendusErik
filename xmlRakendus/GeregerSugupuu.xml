@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene saasta="1949">
+	<nimi>Ljudmila</nimi>
+	<lapsed>
+		<inimene saasta="1982">
+			<nimi>Viktoria</nimi>
+		</inimene>
+		<inimene saasta="1982">
+			<nimi>Vjacheslav</nimi>
+			<lapsed>
+				<inimene saasta="2007">
+					<nimi>Erik</nimi>
+				</inimene>
+				<inimene saasta="2011">
+					<nimi>Evelina</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
