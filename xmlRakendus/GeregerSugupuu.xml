@@ -1,20 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<inimene saasta="1949">
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<inimene synniaasta="1949" elukoht="Tallinn">
 	<nimi>Ljudmila</nimi>
 	<lapsed>
-		<inimene saasta="1982">
+		<inimene synniaasta="1982" elukoht="Tallinn">
 			<nimi>Viktoria</nimi>
 		</inimene>
-		<inimene saasta="1982">
+		<inimene synniaasta="1984" elukoht="Tallinn">
 			<nimi>Vjacheslav</nimi>
 			<lapsed>
-				<inimene saasta="2007">
+				<inimene synniaasta="2007" elukoht="Tallinn">
 					<nimi>Erik</nimi>
 				</inimene>
-				<inimene saasta="2011">
+				<inimene synniaasta="2011" elukoht="Tallinn">
 					<nimi>Evelina</nimi>
 				</inimene>
 			</lapsed>
 		</inimene>
 	</lapsed>
 </inimene>
+
